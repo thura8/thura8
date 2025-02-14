@@ -1,33 +1,33 @@
-👋 Hello, I'm ThuRa Lynn Htun (thura8)
-🎓 Fresh Computer Science Graduate from the University of Yangon with a strong passion for web and mobile app development.
+👋 Hello, I'm ThuRa Lynn Htun (thura8)  
+🎓 Fresh Computer Science Graduate | Aspiring Full-Stack & Mobile Developer  
 
-💻 Tech Stack:
+💻 **Tech Stack:**  
+- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS  
+- **Backend:** PHP, MySQL, Node.js (Exploring Express.js)  
+- **Mobile:** React Native (Building E-commerce & Movie App projects)  
+- **Other Tools:** Git, Android Studio, TypeScript (Learning)  
 
-Proficient in HTML, CSS, JavaScript, PHP, and MySQL.
-Exploring React, Tailwind CSS, and building interactive and user-friendly projects with them.
-Expanding into React Native to create smooth and polished mobile app experiences.
+🚀 **What I'm working on:**  
+- A **React Native E-commerce App**, building a smooth UI/UX with built-in StyleSheet.  
+- A **Movie App** powered by TMDb API, React Native, and Expo, refining the design to match top-tier streaming platforms.  
+- Exploring **TypeScript & Node.js** to enhance my full-stack development skills.  
 
-🚀 What I'm working on:
+🌱 **Learning Goals:**  
+- Master React Native for mobile development.  
+- Deepen my understanding of TypeScript, Node.js, and Express.js.  
+- Improve state management and backend integration in my projects.  
 
-A Movie App with a dynamic UI/UX, powered by TMDb API, React Native, and Expo.
-Adding thoughtful design touches inspired by platforms like Spotify and YouTube to enhance usability.
+🎨 **Design & Development Focus:**  
+- Clean, responsive, and user-friendly interfaces.  
+- Optimized performance for both web and mobile applications.  
+- Smooth user experiences with modern UI/UX best practices.  
 
-🌱 Learning Goals:
+📚 **What drives me:**  
+I'm passionate about building innovative web and mobile applications that enhance user experience. I love collaborating with developers, learning new technologies, and pushing the limits of what I can create.  
 
-Master React Native for mobile development.
-Explore advanced concepts in React, design systems, and state management.
+🔗 **Let's connect & build something amazing! 🚀**  
 
-🎨 Design Preferences:
-
-I focus on delivering clean, responsive, and intuitive designs that make users feel at home.
-
-📚 What drives me:
-I'm eager to grow as a developer, collaborate with like-minded individuals, and take on projects that push boundaries. Whether it's a sleek web app or an engaging mobile experience, I enjoy every step of the process.
-
-🔗 Connect with me!
-Let's build something awesome together 🚀
-
-<!---
-thura8/thura8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!---  
+thura8/thura8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
+You can click the Preview link to take a look at your changes.  
+--->  
