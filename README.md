@@ -1,33 +1,18 @@
-👋 Hello, I'm ThuRa Lynn Htun (thura8)  
-🎓 Fresh Computer Science Graduate | Aspiring Full-Stack & Mobile Developer  
 
-💻 **Tech Stack:**  
-- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS  
-- **Backend:** PHP, MySQL, Node.js (Exploring Express.js)  
-- **Mobile:** React Native (Building E-commerce & Movie App projects)  
-- **Other Tools:** Git, Android Studio, TypeScript (Learning)  
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=thura8&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=thura8&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thura8&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-🚀 **What I'm working on:**  
-- A **React Native E-commerce App**, building a smooth UI/UX with built-in StyleSheet.  
-- A **Movie App** powered by TMDb API, React Native, and Expo, refining the design to match top-tier streaming platforms.  
-- Exploring **TypeScript & Node.js** to enhance my full-stack development skills.  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-🌱 **Learning Goals:**  
-- Master React Native for mobile development.  
-- Deepen my understanding of TypeScript, Node.js, and Express.js.  
-- Improve state management and backend integration in my projects.  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=thura8&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-🎨 **Design & Development Focus:**  
-- Clean, responsive, and user-friendly interfaces.  
-- Optimized performance for both web and mobile applications.  
-- Smooth user experiences with modern UI/UX best practices.  
+---
+[![](https://visitcount.itsvg.in/api?id=thura8&icon=1&color=2)](https://visitcount.itsvg.in)
 
-📚 **What drives me:**  
-I'm passionate about building innovative web and mobile applications that enhance user experience. I love collaborating with developers, learning new technologies, and pushing the limits of what I can create.  
-
-🔗 **Let's connect & build something amazing! 🚀**  
-
-<!---  
-thura8/thura8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
-You can click the Preview link to take a look at your changes.  
---->  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
